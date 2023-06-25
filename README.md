@@ -4,4 +4,6 @@ prueba de repositorio en git
 
 Mas lineas
 
-# Documentacion 1 (Dev1)
+# Documentacion 2 (Dev2)
+
+prueba 2 con el developer 2
